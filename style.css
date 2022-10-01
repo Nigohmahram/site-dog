@@ -1,5 +1,5 @@
 body{
-   
+
     background-image: url(../img/ertak.jfif);
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,12 +32,12 @@ body{
     border-radius: 15px;
     margin-top: 60px;
    text-align: center;
- 
-    
-    
+
+
+
 }
 .block .box a{
-    
+
     margin-left: 80px;
     font-weight: bold;
     font-size: 20px;
@@ -51,5 +51,5 @@ body{
     font-size: 16px;
     line-height: 1.5;
     font-weight: 800;
-   
+
 }
