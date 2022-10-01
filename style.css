@@ -1,0 +1,55 @@
+body{
+   
+    background-image: url(../img/ertak.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block{
+    display: flex;
+    width: 1200px;
+    height: 600px;
+    border: 1px solid rgba(192, 192, 192, 0);
+    border-radius: 20px;
+    background-color: rgba(0, 255, 255, 0.414);
+    margin: auto;
+    margin-top: 100px;
+}
+.block .box img{
+    width: 400px;
+    height: 460px;
+    border: 2px solid rgba(128, 128, 128, 0);
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.block .box h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left: 30px;
+    background-color: rgba(255, 255, 255, 0.733);
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 15px;
+    margin-top: 60px;
+   text-align: center;
+ 
+    
+    
+}
+.block .box a{
+    
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+
+}
+.block .box p{
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 800;
+   
+}
